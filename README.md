@@ -9,7 +9,7 @@ Lab Link: https://hpnl.ir/
 ###### Date: Spring 2023.
 
 ## Table of content
-#### All Documents and References are [here](https://choosealicense.com/licenses/mit/)
+#### All Documents and References are [here](https://github.com/hpnl/Optimization/tree/main/References_n_Files)
 
 #### Download important files:
 * [Convex Optimization Book By Stephen Boyd](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
