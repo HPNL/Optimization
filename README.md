@@ -26,8 +26,8 @@ Lab Link: https://hpnl.ir/
 ##### Session 4. - [Video 1402-02-17](https://drive.google.com/drive/folders/1DVuUqMoyNIwgMC8qzg3g_AyX7brBw4LP?usp=drive_link)
 ##### Session 5. - [Video 1402-02-20](https://drive.google.com/drive/folders/1TxrUxm7RAscoV8BQZqH5pUc5vx0l92ok?usp=drive_link)
 ##### Session 6. - [Video 1402-03-22](https://drive.google.com/drive/folders/19pxLHhSaoooJ8qYT2SL6m851hH-22HFB?usp=drive_link)
-##### Session 7. - [Video 1402-03-23](https://choosealicense.com/licenses/mit/)
-##### Session 8. - [Video 1402-03-24](https://choosealicense.com/licenses/mit/)
+##### Session 7. - [Video 1402-03-23](https://drive.google.com/drive/folders/1GWufyDYhL_h1t_EZ7gYEPWObh5i1Tzll?usp=drive_link)
+##### Session 8. - [Video 1402-03-24](https://drive.google.com/drive/folders/1S3539TDKbCcMOe9PGe2yPBEWmjP58WMc?usp=drive_link)
 ##### Session 9. - [Video 1402-03-25](https://choosealicense.com/licenses/mit/)
 
 ##### Session 10. - [Video 1402-02-26](https://choosealicense.com/licenses/mit/)
