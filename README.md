@@ -1,6 +1,5 @@
 # Optimization Sessions
 ## Supervisor: Dr. Ahmad Khonsari 
-<p><sub><sup>ak@ipm.ir</sub></sup></p>
 #### Chief TAs: Seyedeh Bahereh Hassanpour and Behrad Mahmoudi
 #### Main Lecturer: Behrad Mahmoudi
 ##### Students:
