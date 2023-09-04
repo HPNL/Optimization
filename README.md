@@ -3,7 +3,7 @@
 #### Chief TAs: Seyedeh Bahereh Hassanpour and Behrad Mahmoudi
 #### Main Lecturer: Behrad Mahmoudi
 ##### Students:
-Ph.D Students: S. Bahereh Hassanpour, Leila Asadzadeh </br>
+Ph.D. Students: Seyedeh Bahereh Hassanpour, Leila Asadzadeh </br>
 Master Students: Behrad Mahmoudi, Nadia Yazdani, Mina Faridi, Mojtba Mozhganfar </br>
 Lab Link: https://hpnl.ir/
 ###### Date: Spring 2023.
