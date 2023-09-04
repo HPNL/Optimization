@@ -1,6 +1,6 @@
 # Optimization Sessions
 ## Supervisor: Dr. Ahmad Khonsari 
-#### Chief TAs: Seyedeh Bahereh Hassanpour and Behrad Mahmsoudi
+#### Chief TAs: Seyedeh Bahereh Hassanpour and Behrad Mahmoudi
 #### Main Lecturer: Behrad Mahmoudi
 ##### Students:
 Ph.D Students: S. Bahereh Hassanpour, Leila Asadzadeh </br>
@@ -10,7 +10,7 @@ Lab Link: https://hpnl.ir/
 
 ## Table of content
 #### All Documents and References are [here](https://github.com/hpnl/Optimization/tree/main/References_n_Files)
-#### The Jupyter Notebook File containing all the mentioned examples, problems and projects in python is [here](https://github.com/hpnl/Optimization/tree/main/Codes)
+#### The Jupyter Notebook File containing all the mentioned examples, problems, and projects in Python is [here](https://github.com/hpnl/Optimization/tree/main/Codes)
 
 #### Download important files:
 * [Convex Optimization Book By Stephen Boyd](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
